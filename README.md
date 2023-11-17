@@ -23,3 +23,7 @@ The plugin utilizes the following permissions:
 - `vanish.command.others`: Permission to use the vanish command on other players.
 - `vanish.see`: Permission to see vanished players.
 - `vanish.admin`: Admin permission (OP by default).
+
+## Icon
+
+Icon By [Flaticon](https://www.flaticon.com)
