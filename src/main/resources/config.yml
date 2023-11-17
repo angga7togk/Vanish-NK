@@ -1,0 +1,12 @@
+# Language
+# id = Indonesian
+# en = English
+language: en
+
+prefix: "§6[Vanish] §r"
+
+# the system below runs when the player is in vanish mode
+hud-msg: "§eYou are in vanish mode."
+disable-damage: false
+disable-hunger: false
+silent-join/exit: true
