@@ -12,7 +12,7 @@ Command | Description | Permission | Use
 
 ## Installation
 
-1. Download the latest release from the [Releases](https://github.com/your-username/your-repository/releases) page.
+1. Download the latest release from the [Releases](https://cloudburstmc.org/resources/vanish-nk.951) page.
 2. Place the downloaded JAR file into the `plugins` folder of your Nukkit server.
 
 ## Configuration
